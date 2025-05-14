@@ -74,15 +74,9 @@ WeatherWAN is a low-cost, power-efficient IoT weather monitoring solution using 
 
 > Detailed circuit schematics, firmware files, and setup instructions can be found in the `https://github.com/Olurinnre/WeatherWanMain----Olurinnre/tree/main/SETUP%20PICTURES` folder.
 
-### Prerequisites
+### Data Monitoring Website
 
-* ESP32 Dev Board
-* Arduino IDE
-* LoRa SX1278 modules
-* Sensors (ATMOS14/BME280, etc.)
-* GSM module
-* Power supply units (battery/solar)
-
+weatherwan.oauife.edu.ng
 
 
 ## 📞 Contact
