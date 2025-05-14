@@ -72,7 +72,7 @@ WeatherWAN is a low-cost, power-efficient IoT weather monitoring solution using 
 
 ## 🛠️ Build & Setup
 
-> Detailed circuit schematics, firmware files, and setup instructions can be found in the `docs/` folder.
+> Detailed circuit schematics, firmware files, and setup instructions can be found in the `https://github.com/Olurinnre/WeatherWanMain----Olurinnre/tree/main/SETUP%20PICTURES` folder.
 
 ### Prerequisites
 
@@ -83,22 +83,6 @@ WeatherWAN is a low-cost, power-efficient IoT weather monitoring solution using 
 * GSM module
 * Power supply units (battery/solar)
 
-### Setup Steps
-
-1. Clone this repo:
-
-   ```bash
-   git clone https://github.com/your-username/WeatherWAN.git
-   ```
-2. Upload firmware via Arduino IDE
-3. Assemble hardware components following schematics
-4. Power the system via solar or battery
-5. Access data via GSM + backend dashboard
-
-## 📷 Project Media
-
-![WeatherWAN Setup Diagram](docs/images/system_overview.png)
-![White House Node](docs/images/whitehouse_node.jpg)
 
 
 ## 📞 Contact
